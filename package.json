@@ -12,5 +12,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/muskaan2lamba/demo-cypress.git"
+  },
+  "dependencies": {
+    "cypress": "^11.2.0"
   }
 }
